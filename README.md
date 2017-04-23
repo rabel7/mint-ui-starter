@@ -24,3 +24,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+http://mint-ui.github.io/#!/en
